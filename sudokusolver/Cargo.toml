@@ -1,5 +1,5 @@
 [package]
-name = "Sudoku_Solver"
+name = "sudokusolver"
 version = "0.1.0"
 edition = "2021"
 
